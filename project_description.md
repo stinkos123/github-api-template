@@ -2,7 +2,7 @@
 
 Introduction.
 
-![image](project_images/sample.jpg?raw=true)
+![image](project_images/sample1.jpg?raw=true)
 
 ## Authors
 
