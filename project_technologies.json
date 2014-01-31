@@ -2,7 +2,7 @@
 	"technologies": {
 		"apis": ["youtube"],
 		"platforms": ["arduino"],
-		"libraries": ["closure", "webGL"]
+		"toolkits": ["closure", "webGL"]
 	},
 	"themes": []
 }
